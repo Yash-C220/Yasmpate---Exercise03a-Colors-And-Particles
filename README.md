@@ -1,4 +1,4 @@
-# Exercise03a-Colors-And-Particles
+# Yasmpate - Exercise03a-Colors-And-Particles
 
 Exercise for MSCH-C220
 
@@ -27,4 +27,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Yash Patel
